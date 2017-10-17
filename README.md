@@ -40,6 +40,8 @@ babel-plugin-react-transform //babel插件，通过任意转换的方式封装re
 
 react-transform-hmr //react转换装置，热重载react类
 
+koa koa-router //页面路由处理
+
 eslint eslint-loader //js检测器，允许检测babel代码
 
 ## 配置webpack.config.js
